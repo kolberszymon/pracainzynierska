@@ -1,0 +1,1 @@
+configuration_var = {    "sample_length": 6,    "picked_data_period": '30m',    "broker_spread": 0.0005,    "train_range": 0.75    }folder_locations = {    "trained_models": "TrainedModels/"    }
